@@ -35,6 +35,8 @@ src="https://www.imagemhost.com.br/images/2022/06/28/download20220602161103.png"
 
 <div> 
   <a href="https://www.instagram.com/lopesdanis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniela-lopes-ferreira-da-silva-912291b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/daniela-lopes-ferreira-da-silva-912291b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/danielalopesfs/danielalopesfs/blob/output/github-contribution-grid-snake.svg)
   
   ##
