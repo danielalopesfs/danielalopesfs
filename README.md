@@ -4,7 +4,7 @@
 - ⚖️  Bacharel em Direito e entusiasta da LGPD.
 - 👩‍🏫 Aluna EBAC - Cursando Análise de Dados.
 - 🌱 Futura DEV.
-- 🖥️ Estudo focado em: Python, SQL, JavaScript, HTML e CSS.
+- 🖥️ Estudo focado em: Python, SQL, JavaScript, HTML5 e CSS.
 - 🖼️ Elaboro alguns projetos no Canva.
 
 
