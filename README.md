@@ -1,10 +1,10 @@
 ### Oiii! Eu sou a Daniela Lopes.
 .
 - 😄 Pronouns: ela/dela.
+- 🌱 Desenvolvedora Front-End.
 - ⚖️  Bacharel em Direito e entusiasta da LGPD.
-- 👩‍🏫 Aluna EBAC - Cursando Análise de Dados.
-- 🌱 Futura DEV.
-- 🖥️ Estudo focado em: Python, SQL, JavaScript, HTML5 e CSS.
+- 👩‍🏫 Aluna EBAC - Cursando: Desenvolvimento Front-End do Zero ao Pro e Curso Figma.
+- 🖥️ Estudo focado em: Desenvolvimento Front-End (JavaScript, HTML, CSS).
 - 🖼️ Elaboro alguns projetos no Canva.
 
 
