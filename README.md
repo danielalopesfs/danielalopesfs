@@ -5,7 +5,7 @@
 - ⚖️  Bacharel em Direito e entusiasta da LGPD.
 - 👩‍🏫 Aluna EBAC - Cursando: Desenvolvimento Front-End do Zero ao Pro e Curso Figma.
 - 🖥️ Estudo focado em: Desenvolvimento Front-End (JavaScript, HTML, CSS).
-- 🖼️ Elaboro alguns projetos no Canva.
+- 🖼️ Elaboro alguns projetos no Figma e Canva.
 
 
 <div>
